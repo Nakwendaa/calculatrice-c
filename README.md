@@ -1,6 +1,6 @@
 # calculatrice-c
 
-The application is a small calculator with unlimited accuracy. The calculator supports numbers of arbitrary length.  The expressions are in **postfix** form
+The application is a small calculator with unlimited accuracy. The calculator supports numbers of arbitrary length.  The expressions are in **postfix** form.
 
 ## Usage
 
