@@ -7,7 +7,9 @@ The application is a small calculator with unlimited accuracy. The calculator su
 Each expression is on a line and the calculator waits for the input by printing ```>``` as an incentive. 
 After the end of the line the program prints the result on a new line. The expressions are in **postfix** form.
 
-It is possible to assign variables using the syntax: ````⟨expression⟩ =⟨variable⟩```` 
+It is possible to assign variables using the syntax:
+````⟨expression⟩ =⟨variable⟩```` 
+
 After the assignment the variable can be used in expressions. Valid variable names have only one character. It is a mistake to use a variable that has not yet received a value. 
 
 Negative numbers are not allowed in expressions, but the result of a calculation can be negative.
