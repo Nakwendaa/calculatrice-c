@@ -38,4 +38,4 @@ Negative numbers are not allowed in expressions, but the result of a calculation
 ```
 
 ## License
-[MIT](https://raw.githubusercontent.com/Nakwendaa/jeu-memory/master/LICENSE)
+[MIT](https://raw.githubusercontent.com/Nakwendaa/calculatrice-c/master/LICENSE)
